@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../styles/holidaystyles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="wrapper">
+  <div id="banner">
+	  <img src="../images/Christmas.png"  alt=""/>	
+	</div>
+  <div id="sideNav">Content for  id "sideNav" Goes Here</div>
+	
+	
+  <div id="main">
+    <h1> My first holiday </h1>
+    <hr>
+    <h2> About Your Holiday </h2>
+    <p>Christmas is a holiday where you spend time with your family and have meals together, you give gifts to your loved ones and anyone in need. There are many fun activities to do during Christmas time and you get to decorate your house with your family.
+    </p>
+    <img src="../images/hotchoco.jfif" width="275" height="183" alt=""/>
+    <h2>Your Special Holiday Meaning</h2>
+    <p> Christmas time is special to me because it was my first US holiday ever, we celebrated it about a month after we landed here and everything was so pretty, there were lights and trees everywhere and we didn't celebrate chrismas like this in Dubai so it was very new to me and at first I didn't understand the point of the gifts, trees and all the lights but over the past 3 years it's become my favorite time of the year.</p>
+    
+    <img src="../images/ornaments.jpg" width="400" height="300" alt=""/>
+	</div> <!--main end-->
+	<div id="footer">Content for  id "footer" Goes Here</div>
+	
+	
+</div> 
+<!--wrap end-->
+</body>
+</html>
